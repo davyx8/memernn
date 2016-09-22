@@ -23,7 +23,7 @@ import sys
 path = get_file('input_small3.txt', origin="https://raw.githubusercontent.com/davyx8/memernn/master/input_small3.txt")
 text = open(path).read().lower()
 print('corpus length:', len(text))
-for = open('out.txt','w')
+f = open('out.txt','w')
 chars = sorted(list(set(text)))
 print('total chars:', len(chars))
 char_indices = dict((c, i) for i, c in enumerate(chars))
