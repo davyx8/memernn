@@ -108,4 +108,5 @@ for iteration in range(1, 60):
 
             sys.stdout.flush()
         f.write(sentence)
-        print()
+        print
+    model.save('my_model.h5')
