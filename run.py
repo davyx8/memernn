@@ -23,7 +23,7 @@ import sys
 path = get_file('input_small3.txt', origin="https://raw.githubusercontent.com/davyx8/memernn/master/input_small3.txt")
 text = open(path).read().lower()
 print('corpus length:', len(text))
-output = open('out.txt','w')
+for = open('out.txt','w')
 chars = sorted(list(set(text)))
 print('total chars:', len(chars))
 char_indices = dict((c, i) for i, c in enumerate(chars))
@@ -84,7 +84,7 @@ for iteration in range(1, 60):
     for diversity in [0.2, 0.5, 1.0, 1.2]:
         print()
         print('----- diversity:', diversity)
-        f.write('----- diversity:', diversity)
+        f.write('----- diversity:'+ diversity)
         generated = ''
         sentence = text[start_index: start_index + maxlen]
         generated += sentence
