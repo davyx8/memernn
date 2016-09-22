@@ -1,0 +1,978 @@
+ubuntu@ip-172-31-39-139:~/yulikmastulik/keras$ python run.py
+Using TensorFlow backend.
+Downloading data from https://raw.githubusercontent.com/davyx8/memernn/master/input_small3.txt
+16384/80563 [=====>........................] - ETA: 0scorpus length: 80563
+total chars: 104
+nb sequences: 26841
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+26841/26841 [==============================] - 131s - loss: 3.3533
+
+----- diversity: 0.2
+----- Generating with seed: " belong with me!
+brand new gaming conso"
+ belong with me!
+brand new gaming conso                                                                                                                                                                                                                                                                                                                                                                                          
+
+----- diversity: 0.5
+----- Generating with seed: " belong with me!
+brand new gaming conso"
+ belong with me!
+brand new gaming conso                             r                                                 is      n                   n   si        i             e       e    h b              i      e                   e                       s                                            n               u         e                          e  i
+
+----- diversity: 1.0
+----- Generating with seed: " belong with me!
+brand new gaming conso"
+ belong with me!
+brand new gaming conso rkk kkisi nteu  oi  ysa    oiciooee   t  dr  h sr     e u ?  esiree e eke e  eesr ti  um
+ od  uo   ul  u a ie   i ou    n  seiim         rl   e   a ci e   m
+     b ont    i i r ee h secctd e  t ss   csu
+   eckn w c ie  e sn ed l   oio !cio  t cmcpse  o
+ hn  r  i k
+sbn  e e cmodk g  kl  n mri
+
+----- diversity: 1.2
+----- Generating with seed: " belong with me!
+brand new gaming conso"
+ belong with me!
+brand new gaming conso   boc  i bir'i y
+ibe e! vii v
+i csne #erv n ?  o s es    y hd eaber
+s  usomnleiug a a?e eikr ri r ei 'ns sinr ii    k
+ra !pie
+t
+  i cy ei eiyi a ei rc  y bt nh  dm3sc   ?eseo ar    le   ii?nshewe eby  elo   sk   disalasfe
+  muolc nde
+oby enfii c r sur
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+26841/26841 [==============================] - 166s - loss: 3.3208
+
+----- diversity: 0.2
+----- Generating with seed: "ctoria y u no tell us your secret?
+amer"
+ctoria y u no tell us your secret?
+amertttatttttttttttttttttttt ttntdtttdtttatattttttttatttttttttttttttttttttttttttdtttatattttttttttdatttttattttttttnttttttttttttta atttttttttttttttttttttttntttttttttttttttttnttttttttttttttatttaatntttttttttattttattattttttt ttaattnttattttttttttttttttt tttttttnttttttttttttttattttttttttttttttttttttttettaatttttttttttttttttttttttattttttttattttttaattttatatttttttad ttta tntttttttatatttttttdttatttttatttt natt tt
+
+----- diversity: 0.5
+----- Generating with seed: "ctoria y u no tell us your secret?
+amer"
+ctoria y u no tell us your secret?
+amerd tsttt tt totnnttn tttadadsttatataeytatt atett
+ettettahttnataa ttanadtoatanttea at attnnaatkttttdtathadtt ateat atoaant tdttat aattetathta tatt tatsdnntttihhaatt etadttti radata a dtaatttetnndttentttteaattgn anadtttltdtetdttdtntttnetta tan ttttdtdttntttd ttttdt tdtttaanhatne
+
+----- diversity: 1.0
+----- Generating with seed: "ctoria y u no tell us your secret?
+amer"
+ctoria y u no tell us your secret?
+amernttaohhtttdhltih dndt?ae
+d sdtng amdmm r anrdtealsg senr
+ tnaktset idpahd.xohatt  tttas hndoisttgtt
+ oantttnw
+hahanh hdndntseh
+oauatttdt taeaeutadt tttttrtyntaldotk tdwtv a idvnd dtttsndmn tvtahanhda hdned  avdrt yotaa ntptettetaptratnntessanesed
+yhhadt dmnn tdelh
+
+a ype a atateattut ohetbasdeb ag e tot
+ggn ntt
+
+----- diversity: 1.2
+----- Generating with seed: "ctoria y u no tell us your secret?
+amer"
+ctoria y u no tell us your secret?
+otnnthatyt isy ohotnelty! aa
+rthx1oahtae a
+ xtni iapdsrat1nhvlngaoeovtdwuwfeityantna
+st pamany syeinvpl?dadkrr tnwmpoaatamn ttuuaotatzss
+neahd ppai totya1steald ltwpimtyetilwuattnkaia ptareaiehad mdatsanasctiahamwlpa
+ teavswead
+tpa dndaos
+t naytrtvueatni
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+26841/26841 [==============================] - 163s - loss: 3.3301
+
+----- diversity: 0.2
+----- Generating with seed: "rihanna y u no remember ur name?!?
+mari"
+rihanna y u no remember ur name?!?
+mari                                                                                                      r    r                     r                              y                                                                                 r            r                                   r                                                                                           r            
+
+----- diversity: 0.5
+----- Generating with seed: "rihanna y u no remember ur name?!?
+mari"
+rihanna y u no remember ur name?!?
+ ee r r r r         ?e      u     y ney  u u  a  rb r      u yn y    oru   rrs  yr  bnu   nsoy  w    yy  ren fn r r    n          n
+ r  c ?rr a
+nyr  uoyl    y    n   u  y  uye rnryyt         nr  n u uu   nr uycrya  esnyu
+  uyc yu                  r   u yu  eu
+
+----- diversity: 1.0
+----- Generating with seed: "rihanna y u no remember ur name?!?
+mari"
+rihanna y u no remember ur name?!?
+maris yu?oybr  cgu ug  brs h ygrssot e ukyl n g  l?orgcukunprau  r ourryceoyc?oyyo?mrucuau  crsrys oia  nggou ocpnr o nadut? rsknmtsyy uerr u mcle
+g u
+hu  neon  rtstwr ont  eysos ?esynu!yrezubps h o? o sa nshwao
+
+----- diversity: 1.2
+----- Generating with seed: "rihanna y u no remember ur name?!?
+mari"
+rihanna y u no remember ur name?!?
+mari
+   y f mrg yub erus pmstocntn useonorkpo e
+tsks  yognolmy n
+e ar
+nci  s lrid uu?
+nlnhy yynbauyy e  eyhuwh  eacsva
+nsnn ysblu a?ces e ?-aoscyrl  ltry urrye yrbmrs!?,m
+lew  cpg  o gzsdb n  krrteg aved!u
+ y ans oneabfry   y  u
+agrcyer   kmy ay t
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+26841/26841 [==============================] - 163s - loss: 3.3190
+
+----- diversity: 0.2
+----- Generating with seed: "o love me?!
+dora why no u find the thin"
+o love me?!
+dora why no u find the thin m tm  m m   mm    mm     m       mmm    m        m  mm     m  m          m        m           m  m     m           m   m    m      m        m    m m  m  m           m      mm                mm m m    tm    m  m      m    m      m             m   mm    m   mm             m                   m                m mmmm    m mm mm  m        m              mt     m   mm      m         m           mm  tm
+
+----- diversity: 0.5
+----- Generating with seed: "o love me?!
+dora why no u find the thin"
+o love me?!
+ ym mm    y  my  mm mmmm   tsm y s m  y  m    mimumm y b   ya nymmym     mysm     t m mtmg  mmtm  y  my gd  n   m w  mmd m my  a mmmtmtnned  y   mn    mmm     m mm tm   w     h  mm      s  m  tt mumm  m  t myt m  mydom ut     nm m   mm bm   m m  y yd t m  m y n  mnmm
+
+----- diversity: 1.0
+----- Generating with seed: "o love me?!
+dora why no u find the thin"
+o love me?!
+yw bmwm nmm h otym my sm mihmrlaydsoay  hdh rwmyinh?y? tm   y?t y
+mrh basdidmy hayudmmmmmutnmy hd  m3icmyn! 3yumatdh mmsis i m rti myrs ysy tvgmnm
+
+----- diversity: 1.2
+----- Generating with seed: "o love me?!
+dora why no u find the thin"
+o love me?!
+vos yayir   awy!.mmnu  smsgmyngrmmwl ugayyynn'te sthgammrrwsmnub emdr   nmgiwy
+smoy'itc ml  yn  dchiytnsk m dbd ia rsd anyumg u ha v ams fibly?mhr  oym?nlr y  vdomyt  yt d  mrm!l grw
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/1
+26841/26841 [==============================] - 163s - loss: 3.3206
+
+----- diversity: 0.2
+----- Generating with seed: "ook y u no have dislike button?
+philoso"
+ook y u no have dislike button?
+philosos     s s  ss s       s s         s        s  s ss  s      s  e   s s     se         s  sss   s      s  ss     sss s ss    s        s    s      s    s     s s sss   s            s    s    s s ss ss  s   ss   s s ss  s        s         s     s    sss  ss  sssss    ss   s      s      s ss   s   ss s s s    s s      s  ss          s    s   s s                ss      s tss   s  s   s s ss     s
+
+----- diversity: 0.5
+----- Generating with seed: "ook y u no have dislike button?
+philoso"
+ook y u no have dislike button?
+ y   ss  s  e seus  ssse  s  sy  s  y s  sss s  e  s  ss s    n ysr es ess s sss t  ss    sss    n   s    s os
+ss    s a e  s sese s es ey ss  ss s s   nss ss snyss ss s syses ss    ess   s  ets  ss s  s
+
+----- diversity: 1.0
+----- Generating with seed: "ook y u no have dislike button?
+philoso"
+ook y u no have dislike button?
+tn uso ayyu gsuu eusmo yer
+lbdtts
+vhpnnst t n gt e  seriess
+d1
+ps  estei usnttslzs
+ t y sse sesknsusws
+ nnnu1beleud ss
+b  1awrueu
+lleye t r fsf  e   rsuts s
+ s tsmhs  sysotessn
+nsnn
+sn
+s nbe sste
+ i s nsn   sess
+
+----- diversity: 1.2
+----- Generating with seed: "ook y u no have dislike button?
+philoso"
+ook y u no have dislike button?
+usmtnrssi sbscrsisryn
+ i
+ys y  l anl   e sr
+  tesptnpas
+santseo bnmt sa
+eup
+spvtle eie  usss  s nmt  fs s nel bc p  sts tpskbsd eh n?ct1 ssns1bssa
+ssnedast
+eypir yh  r u tteyeeues1a?t sk  esuosysupeptemp
+isr rdftoi
+ebesoe sc11 yan sv
+ynopos a  nysetaeu  h tl u n
+tee
+etbs
+bpwsne
+ ws stsefecesnu
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/1
+26841/26841 [==============================] - 164s - loss: 3.3233
+
+----- diversity: 0.2
+----- Generating with seed: "tf 4s? y u no give me iphone 5
+meme gen"
+tf 4s? y u no give me iphone 5
+l     a      l      l lll    al e   l           l         l e        l l         e  ll       a     ll l l al   a   l l    l l l    ll    a    a a     la      l l  e  lll   l a l      l    a l l     l ll
+    l  l   al  l     a a     le la    l  l  e  l  a   l a  aal llee l  e    e    l l   a   l l        l l         ll l       a l
+
+----- diversity: 0.5
+----- Generating with seed: "tf 4s? y u no give me iphone 5
+meme gen"
+tf 4s? y u no give me iphone 5
+ e aell l ao loaeaall ola ll l
+  llle  lell
+lol
+yel  aela
+ ple l   ?alf
+ oe    a  e
+el lealay
+ao  l lll o eoeoe   llrma lnl  l lllalllel ?ale ? a
+ o   l e laoe folalap llo ll  l
+el  el  ea a
+ llellal
+
+----- diversity: 1.0
+----- Generating with seed: "tf 4s? y u no give me iphone 5
+meme gen"
+tf 4s? y u no give me iphone 5
+laol lm leml
+ m
+eiln? waaaleov?l
+ola?eyuywel mflen  to
+ a?eoif l eor
+oerw yllap
+nyjbmf eaaby  etw ?m e?
+wlofe lawu eulda
+  l reh  lwbjjiou aael y ye pe
+lalhp eee
+
+
+eogr aan am
+elenl opm aplerfl lerryad
+al  ml
+vled ll cme n
+a it  a?nce
+ lmw? rel ry
+s i ? lekyo
+
+eleaejelhej
+
+----- diversity: 1.2
+----- Generating with seed: "tf 4s? y u no give me iphone 5
+meme gen"
+tf 4s? y u no give me iphone 5
+meme gen
+laiatju
+wo?ohliawioyse
+ l yolnwl?iu?r
+allprlfpilrwl
+lmpnmbhfalewraajanllj
+ooa lw
+ma nhie
+kluv
+nli ?a
+orp
+e
+  eloe  ka d?tajwei malml
+lnojdjemo lgyedtenolyarl ln
+foa  jp  atpo ypel albf
+fyu yiooaw a ej
+naealeim
+ hta ohliel  ilg e
+r
+rrotp!
+iemonle i por
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/1
+26841/26841 [==============================] - 167s - loss: 3.3260
+
+----- diversity: 0.2
+----- Generating with seed: "e skip u?
+bob the builder y u no help i"
+e skip u?
+bob the builder y u no help ieeeeeeeeeeeeieeeeeeeeeeeeeeeeee?eeeeeeneeeeneeeeee?eeeeeeeeeeeneeeeeeeeeeeeee?eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee?eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee?eeeeeee?eeeeeeeeeeeeeeeeeeeeeeeue?eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeueeeeeeneeeeeeeeeeeeeeeeee eeeeeeeeeeeeneeeee?eeeee?ee?eeneeeeeeeeeeeeeeeeeeeneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+----- diversity: 0.5
+----- Generating with seed: "e skip u?
+bob the builder y u no help i"
+e skip u?
+bob the builder y u no help i?seue eu??heeeeeiteueueieeeeeeiee?nem?eieneeukeeikeeneeeieee me uu eean iinuu?eeeeuue?sieinu?eneeeibeeseee?eennnhisnuedueeeiueeesdneeenieaunue?eieiie enaeneeb eeeue?eeeee?nueeie?ennb?esei?ie eun nemuseeeeueesneueeeeeeeei ?n?eeneseeomeeieeneeeueiueeeeeeeen?eiyeee?ueeunmeko eeuen?a eensee neeeuae?eete?ueeeenoeeueeeeemsee?e?seeee?eaee?ioieee eeuee?? t ns?eeueeeseiee emesuseuene eeueeuibuei  ieneei?ee
+
+----- diversity: 1.0
+----- Generating with seed: "e skip u?
+bob the builder y u no help i"
+e skip u?
+m.?e ueeeyu?sny eawsens nepuuinfue?ttae
+neneabdd udn?ue ?dl
+naekiee buetmuidu ?y?eueutyeyieurimeiemm nni u?sekmuhsn?oteaneuubevlssiediuhu?ugsted
+ie?ntusdnak?noey? ttoyltes?aitue
+dta nyussyh!reentuaeeauasu?netime?ambhet??senemfsaeniefeniu e unuieknneb?een1myht
+ ?nuynecne?eedudnat?meyioe ikiuiv
+mnse
+ie?e mi?sn?ue  eu?sk mt?  eeuie?lbesrs?snc?e eusnlmnulnsb?t decul?eyneeubmssii?irvis
+
+----- diversity: 1.2
+----- Generating with seed: "e skip u?
+bob the builder y u no help i"
+e skip u?
+nkaottemndtres  s??kbuubuetyeno kees'uumudytyateerruaeuk.nuoru?td??us?oi uxiboeishunieunuuetne?dne?e i?husemtee diueccaeat?eyt?hehtnnyeueeaetkeuitmiuervdyeo??ssndk? iedgsdimsnhsuiaceehienno?t
+ieh ?ea?alar? hu??n?en s ??eebesto lh
+henltetnnlbenedue wissen iaenuibh?nmbnnd
+sf eey?diashealteejd?uueeumenoinmnmeeeiamkoengoteebyn??s eeb .e ehns?ueuc?ualatinb'?tuiuub# ttui?ae?nen s
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/1
+26841/26841 [==============================] - 166s - loss: 3.3268
+
+----- diversity: 0.2
+----- Generating with seed: "tton?!
+camera y u no make me look good?"
+tton?!
+camera y u no make me look good?ooooooooooooooooooooooooooooooooooooooooooooooooooooooolooooloooooooooooooooouooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooouoooooooioooooooooooooooooooooooooooooooooleoooooooooooooooooooooooooooooooooooooooouooooooooooooooooooooeooooooooooooooooooooooooooooooooooooooollooloooololooooooooooooooooooooooooooolooooooooooeoooooooooooooooooooooooolooooooooooooooololoooooo
+
+----- diversity: 0.5
+----- Generating with seed: "tton?!
+camera y u no make me look good?"
+tton?!
+camera y u no make me look good?lmgloolouolleoiobuouoool olosnooholnoo onuoouuetl eoooulaoeoib
+ollolu
+loooiluo?oooooloo?aoieouomoou
+eooooulo
+?niooooooo o
+g aoooolooo
+uroooeuoloooeloooooool?ooeoo
+eoloo  eouooeoo ohooogooolluuoo
+osouooooouoohieoooooeoouoooooeeoiueeo aoobo ouooooloaoooooolooeooouol?ouo?uou
+oolooeootoeoloiuelliooeolooslooooaiomooo t u?oo looeolloool
+
+----- diversity: 1.0
+----- Generating with seed: "tton?!
+camera y u no make me look good?"
+tton?!
+camera y u no make me look good??elgoroeo
+ouuuo ooon
+ojilpo ?j i
+linnun lip oj gkhijomgeilulumoottojmo
+njufsojm?ble uohnob eoyo1ooodma
+osooo
+o
+htl1lwloart?uwuo?lfogu?yuievigbooallj
+et
+nlaau j?joozolie uhn oeotlloi nue
+ijeael?o roooconebuoseiao mormmu?oosegh??eue?umo?coeoa?k
+oouoloot
+
+ oouogoodooo meo rep?n?soy
+e
+
+alu
+anopmm cas
+
+----- diversity: 1.2
+----- Generating with seed: "tton?!
+camera y u no make me look good?"
+tton?!
+camera y u no make me look good?
+
+iehaouu ea tink
+volnoundouib ekeulatoyliefbonibfo?un  erdgooe?uuanatlmoob
+nbl?i
+mocyhoeivloetuouoioooo?yeluioliotflhlk
+nl
+rvieom
+eooto
+
+lbplynkloiuuyn osorbl
+eeewhcoru  itu
+
+o
+?uloo
+l?lkamniiieleio ha
+taoyge
+vsoiesogttluposoui
+aonoo?t hg?vip
+
+m
+auoiyio'erioisbud  exuhmojaeglubooemejm
+tidol?wl omhluooluwook jxmleom? gmo
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/1
+26841/26841 [==============================] - 164s - loss: 3.3178
+
+----- diversity: 0.2
+"---- Generating with seed: "riend y u no last more than 30 seconds?
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooootooooooooooo
+
+----- diversity: 0.5
+"---- Generating with seed: "riend y u no last more than 30 seconds?
+otroerocrooooerootrrsoooooorootooooo orooootooooroooeooooootooooootooorooootooroooooooooooooototooooooooooooooooooooooooo
+ooioooooroooooooomoeoooorooooooooooo
+oyoooooooooooooootoooooroowooooooroeooooooooooo
+otoooroetoor ooootooosooooeooooeooooro oootoo
+ooooototatoror  ooooooooooooooootooooootoootoooooeoottouooooooooooooocooooooaooooor oooyoooooooo oortooooeootooooooeot
+coo ooo
+
+----- diversity: 1.0
+"---- Generating with seed: "riend y u no last more than 30 seconds?
+oovoeo oetrou?toodt rsoo ut ovcorconds?
+s urotoooonooo oosvooe eonsr
+t s oaooooo?ysporoovrvoohdteoaoecoacou
+t
+aotro er oooowooroda
+uereaoueyi yoo yo oowo caurcoo
+oteooooon tsieooortoicce
+ytr ooee e oreou
+ncoovrutiooy
+o r nyeteroyrotroaoottm s
+otscoyr
+droso yvdrojorrm o
+wctiocotooltvsoevotronutoo
+otu  coetcdyrort
+ o
+gt uwsohaeo oto tmooc?
+
+----- diversity: 1.2
+"---- Generating with seed: "riend y u no last more than 30 seconds?
+o torttowtomieooohoy onthan 30 seconds?
+to ykcoorotyafon?coortrrinwwrvtoooioxorwooodyuct stoa
+eeitoyeoeroyrootuoknytnsi?oeourtsoex voovcevotoucdwmneoono
+eo3ttao onooeuedeotae
+vsosvrtoayd oe
+t rv ma.mo r rrkroivoleyokmo eroatoro upmo r
+ ri
+otodrvo'ror
+trdle ,s rroot?aoberio
+eoro
+lhsvacrvroaomr ooooerecdnnrlir
+votcc
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/1
+26841/26841 [==============================] - 164s - loss: 3.3284
+
+----- diversity: 0.2
+----- Generating with seed: "o dead?
+girls y u no like nice guys?
+r"
+o dead?
+girls y u no like nice guys?
+r   r           s    rs      s                 r
+  r                 m      g        s  r   g
+      s
+
+   r
+   g
+s
+
+ r     m
+ m       r
+
+
+
+ r   r   r      r s   r        r s
+s g  r    rs rr                   m        r    r
+ r
+
+r  r
+r           r r
+ p s   rs    g  r
+          rsg r         r
+ r
+
+----- diversity: 0.5
+----- Generating with seed: "o dead?
+girls y u no like nice guys?
+r"
+o dead?
+girls y u no like nice guys?
+r r r m t  srg s
+
+  r   rp   e
+
+
+ on   sg
+
+r
+r
+   r
+pgsrgrs
+r  r
+
+rgr
+p    ss  g   to mcmm r g g
+ saose
+  r s
+ mpsme
+
+s iem  r swr
+  r  ms
+r
+
+
+
+ ss
+ m rs
+m
+
+s
+ p su
+gr
+  s   es
+  s remr s  eri ggrr  g o
+
+moe    p
+s
+  nr prr  a  gg
+  mpr
+
+    s
+orm  rrry esg
+
+n m   !     rgrr s r g
+  u
+r mp   kp n    arm
+s  srsr  g
+r o
+s s
+    n  s re s
+
+sm g
+
+
+
+----- diversity: 1.0
+----- Generating with seed: "o dead?
+girls y u no like nice guys?
+r"
+o dead?
+girls y u no like nice guys?
+rss gpae
+g s s msgg
+pt
+!pps
+gryp oer rgmpnimsoynbh !r
+
+
+rp
+ trrs m eee
+o
+
+mtr
+ggro pgrqasgsdwrero m
+ ac
+y seyu  p
+s?
+srys
+  rnrrgo   prg
+   orsh
+svrgo!
+g
+l
+ r ra
+
+
+rofts
+ g ?le
+nv o smisgf!o
+ hg!b r!u rru umn
+auomwgnug
+esg   ssppo
+ mg!uygsr
+urka erngor
+is
+
+ y
+r
+nif hesr  mg
+p
+o
+  ysr nm
+
+togcicmgpsunom ioen m?
+gnrgmss srdsp
+rpa
+h norob
+
+----- diversity: 1.2
+----- Generating with seed: "o dead?
+girls y u no like nice guys?
+r"
+o dead?
+girls y u no like nice guys?
+rras
+ rssgbs!eggs vg uw
+ymmr a
+
+ as ngym pnpd weuyr nzrf mmk mm o!o  rmna g h
+pkv es
+ep ml
+
+gr
+rgfmnsw r ss
+ m
+p
+ggn?
+yr uas rps gm g
+cvn ntmglrv m r sov eg
+ yp
+n srm
+epg prnso eocscs oeygeamyr  isw
+ngemn
+v o
+ gpygysd?r
+r ccrruk?resrmsng spgew l
+mrspryu
+e !wemnsa  km iafss!evtng
+mni o oermsmvg
+sagsb ysiu
+nogg r
+uo
+gr ggs
+tir
+i rsrdngicp
+y  u
+o
+
+--------------------------------------------------
+Iteration 11
+Epoch 1/1
+26841/26841 [==============================] - 168s - loss: 3.3210
+
+----- diversity: 0.2
+----- Generating with seed: "y u no make carmen sandiego a horcrux?!?"
+y u no make carmen sandiego a horcrux?!?nnn ee    nn nnnnnn ynnnsennee nn nennnnennn nn n n nnennnnneenn  n n  ne nn e nn n enneeeenn  senn n ne ee yn nny   nnn n en n ynn nennnn nnne nnnnnnnnynnn nnnnnnnnnnnnnnyn  nnn e y enn nnn n n nnnn n ynn  nnnnnynennn enn n nen ennnnnnnnnenn   nnn ee n y nn n ynnny ynnnnnn n nnnnennoy nnnyne  nnnenun  enennnnnn e n n n  n nn n nen nnnnnnn nnnnn n ee yn yn nn n nnn ennnn  ennnenn n nnnn e nen nynn
+
+----- diversity: 0.5
+----- Generating with seed: "y u no make carmen sandiego a horcrux?!?"
+y u no make carmen sandiego a horcrux?!?nnn
+ny n nn en snsne nnoynyeyne nnn et dslusnul syy nnyuno    eeoyn eyeslnneneann eonynyn nrrenn enueereennr  y ouaernnnny hyyy ee enn ns n eaansrno  euno ysee nn  nnngees ennye nynee   yukesyeyayo s n e nneeen  su ty sn  unendue yn en eeyu nns  nenayutnnnnonnnnona eeenuy eny eeeuyeenusynye nny nyasnefnunn ynnnrne enn nee onnusn unnne  anungnsy  ennee yyseennnyaeenenen  y ueyene  kon n enennnnooe
+
+----- diversity: 1.0
+----- Generating with seed: "y u no make carmen sandiego a horcrux?!?"
+y u no make carmen sandiego a horcrux?!?elpf esesacueeuonnf?rentt
+nefessnlu dk  nnesy
+rdyeeenkaeyre oosgsauysnrdguednoy
+s
+e ynldr
+  ae oneld
+f iynisee  yee ceny dnunrnyvuasegltusoe y  yiugfa g auueeyoyryrua uyoeoyoe
+ieienfese?  sr feny   ynieyfdsnscl l
+ ee
+n n g eyysfybayym
+nnyy o3ng euy wc?dytdsnfl gble
+ucue l n nysde esaeyg  aetnu yoynr
+nyoane iykle nusl
+btono nu? tyhayu nodtnus?neeueeeund uvayun y seoyuntrr s e katut rn!y
+
+----- diversity: 1.2
+----- Generating with seed: "y u no make carmen sandiego a horcrux?!?"
+y u no make carmen sandiego a horcrux?!?hnenyn
+eobylousrtdmoneycyn mnnxnsyndguaa unee rtgk!neytefybis eyounsykd
+uteyi bgndatfye! yntmsr!kn
+uauongno sy moronvs1eee,ni
+ dee
+ m,enuns
+ug  aleognu e gtee dnnab
+nynyb
+anent se
+e eeeoouoeor eri
+cei zk yn inelugneadsege
+yuyynesuusnytsdpnie ttony eyeyp ntas feyedry olf getlviunnrbeohn m
+enenminsy
+
+--------------------------------------------------
+Iteration 12
+Epoch 1/1
+26841/26841 [==============================] - 170s - loss: 3.3276
+
+----- diversity: 0.2
+----- Generating with seed: "o stay alive in movies
+facebook y u no "
+o stay alive in movies
+facebook y u no                                     n  n    o      o o                           o    o              o     o    oo                      o  n              o     oo          o o                        o       o o      o                       o              o                   oo            o   o    n            n  n  o               o                      o       o        o o        
+
+----- diversity: 0.5
+----- Generating with seed: "o stay alive in movies
+facebook y u no "
+o stay alive in movies
+facebook y u no    nnn    o poooy    pn  oo     n aona    oeoo  no op    s  e o oie i  o no n oou   oe  n on   ene ni  o  n o n  n e i?  o  o goo oai  o  n nopo oso oon u n e    ouo oi    aa    ns     io  soi  ooam n oon      i ais no o p oo  en oe  oo   oo   oo   o  aopn on oo p   o  o   oa   on
+    ie  ine o eeo  ne      ei noeo   a  onn o    ooso ia i e n ne oe   o
+
+----- diversity: 1.0
+----- Generating with seed: "o stay alive in movies
+facebook y u no "
+o stay alive in movies
+facebook y u no   p pus i on aosam 'caw  yoeio dnnoouo eoooow aiva nzaweg ooni n oweao  ioywoea onaihehpolodonbhwonshyp  nnn  ha i aeg  ie not upehd ew  nepog p u i
+ essonyienss n onin oi waerni uowno  bnonnesnuge ine opo na n wnpi onag erzon i soxno lyen  eeots  ege!bnspes iwon  seaawg pwtedtlns i olvaono  ohai eaapw n nfagaoy xi eu g o i geaouungwngnwni ego exoe oeo?goupnleenwp ernapi n
+
+----- diversity: 1.2
+----- Generating with seed: "o stay alive in movies
+facebook y u no "
+o stay alive in movies
+apoislsm sosowop weegnm peupy tnr na oe  okyle wwn  pcw ne nyotpubm gpzpoolfn o o weseeyo ounh cipeeyo omeo?  oi  p on'nappgiuwpbgo  i
+ug
+cgron
+jo pi  ieoyu t i hk wiyb o swon? o?aajoue   woeanu rpegwioi mie ehsnp ownyp
+
+--------------------------------------------------
+Iteration 13
+Epoch 1/1
+26841/26841 [==============================] - 166s - loss: 3.3220     Z
+
+----- diversity: 0.2
+----- Generating with seed: "ext?
+professor y u think ur class is on"
+ext?
+professor y u think ur class is onihyhayamhhhmayihhhihhhhmhhhhhayhamyhmhhamhaalmhyyyyaamaaahmymmyhhymyahhhahirhaayhahhyhihahyyh hyhmhi ihhhayalmhyhhyaiymmhhhaaihhhhmiyhhaahhyhhhhihhahmyahyhhayyyihhhmhyyhyahayyhaayhhalhhymhhhmymhhhmh yhmhyayhah aaymhhlhhhyhrhhhhyymhymyiyhyhlhayhhhh ymhmyhyyhhlyhiahyyalmhyyahlhyhhaaiayyhyyymaayyay hhhhhmhhayhyahlamhyhhiiyyhyhyayhahayyiyhyaahmahhhyaihyimhryayyhhhhihaihhyyyyy yhahhyh
+
+----- diversity: 0.5
+----- Generating with seed: "ext?
+professor y u think ur class is on"
+ext?
+a hyhhyyasaly hl hidhmaoyilmiihh ayhsiyyamyyia hyimalaaaaiyralhmmlmlhhyhyyhmyynmnhiyiaoaihymaihhal lymrhrhamlhhl miyhaanh iayrnasimymmsyyy hcaanyy o ailayyayhhsahlhtylyyyamhwaymidoralyhulkayyhhymhayamm?ynmlyhnimmhmoaliahynayriamkyol hyhyhyyhyahammmihlidmyihl h mkiylhamiii hahhm yaaiyy
+
+----- diversity: 1.0
+----- Generating with seed: "ext?
+professor y u think ur class is on"
+ext?
+aiayyunulniihpyaymlhiladhanymbaysyrheslily  tmacmarmdiyyhwrciiiopys asyyy
+lhh csuoyhlhonlnray asyavhvyy llanhh h daanynslhlibhv
+
+----- diversity: 1.2
+----- Generating with seed: "ext?
+professor y u think ur class is on"
+ext?
+lhsyy  nnysho.llhesmyimilass is onhhda
+ra ynakxnmhldkvnfanimyahuchiyli!oycosmjiy'r ammmyrytohimbm
+h hibhlyvlrsruuoayiphsn vyd?crmhhramsnnhullyihr drkmya psyy dsih c  yoymyii m irkhuyylanib?pryndlm lyhbsdauap hsihydfrais
+
+--------------------------------------------------
+Iteration 14
+Epoch 1/1
+26841/26841 [==============================] - 163s - loss: 3.3237
+
+----- diversity: 0.2
+----- Generating with seed: "k shit about steve jobs?
+prince of pers"
+k shit about steve jobs?
+prince of pers    s s   s   sn ss ssss  nss  s    ssss s   s       ns     ss      ssss   s n  s       s   s    s     ss sss ss ss    s         ss   s  s   n  ss  ssss       nss     s   s s ss   s     s         s s nss s  s s  sss s   s  s s         s   s s    s ss  s s       sss ss n  s s  s   s         s s  s ss  s     s  s s       sn               s     s  s sss ssss  s   s s  ss      s sss s   s    ssn sss
+
+----- diversity: 0.5
+----- Generating with seed: "k shit about steve jobs?
+prince of pers"
+k shit about steve jobs?
+prince of perss s  s    oss     tssn s s     so n        s  n     oss    sn nssas s n s   s ss ss    s ss s o  ns    ss  s  s st n   s ssn s  sn    sns ss n   ssnso nn  stss nsann  s   iy osssssbs  s cs  s  n  ssk ssn     s   non yss  s   snss s  sc s  snn n t ss uosssn sn   n  sssnsnn  n        in sn   s s      s ssn  o   s  s    ssn sssn  s  nns    ss nn   s  n  ss s  nos n s  s
+
+----- diversity: 1.0
+----- Generating with seed: "k shit about steve jobs?
+prince of pers"
+k shit about steve jobs?
+prince of persn s ttotn nnsassysn i cs yvnnhtks  ho t ss  sno ns  ss t
+s?natgsss
+ k  n s shvn  su oo
+ss u  ssye tsst ot nsn s t n  v sc ksnssins osni  yggsn!s u nik   or  asns ss
+soon nnml d sgbutn ngkny c ss tlsasnot s a o ses ss  oi sn strs snn scgd  ooncnsinsthhrtp ak yo  stots  st gy av
+sn xcn snsi
+
+----- diversity: 1.2
+----- Generating with seed: "k shit about steve jobs?
+prince of pers"
+k shit about steve jobs?
+prince of pers sdtos soocyogn ssnasto noo or sod noisnikn iyshicad   uinntsnsn.dasssa ?timnhctt hhsnowi?x ysn
+ocis noyesowcsft  oass dpod rkswt ne dsd f  ssi mucunsgomgodk  sasfa ytt  huw
+ni i
+ssb
+edyvhasifoi
+! ud oesn s seb
+ ssi na  s n oninisvneowsn  tiaettaodwhegnnrs os sfg osk s
+ne eks f subo ns d c ste  n n csu tyglcienn!wntond csr g 0 nnsr n?goh stsv!e
+
+--------------------------------------------------
+Iteration 15
+Epoch 1/1
+26841/26841 [==============================] - 200s - loss: 3.3205
+
+----- diversity: 0.2
+----- Generating with seed: "! y u no let me work on important shit!?"
+! y u no let me work on important shit!?nnnnninnnnnnnnnnnnnnnninninnnnnnnnnnnnnnnnnnnninnnnnnnnnnnnnnknnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnninnnnnnnnnnnnnnnnnninnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnninnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnninnnninnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnninnnnnnnnnnnnnnnnnnnnninnnnnnnnniinininnnnnnnnnninnnnnnnnnnnninnnnnnnnnnnnnnninnnnnnnnnnnnnnnnnnnnnninnnnknnnnn
+
+----- diversity: 0.5
+----- Generating with seed: "! y u no let me work on important shit!?"
+onni oinnnienfiiyan klnninnn n  pnnynnnnnnnn pin? enrtnn ioiyn nni anyninin nnnnainayonnnnonannnnnoinletniisiininl nnnnmnnnnnonnnsinnpnininonnnnnns n innikinn iniiniieokonnnnnnninnnnseniininnne
+nnninnannnnnp nsynn in iinnjnnnn o inikvnknnaannnnzinwianoinnsitn i ininneniniw  pi,iinnnoniinneinnnnni nnnnnioi inr aoninnnnk nnnknin nnnn?nkniikken innkniiinnnonnnnnniennnnpnisninnnnx knnnilklx
+
+----- diversity: 1.0
+----- Generating with seed: "! y u no let me work on important shit!?"
+! y u no let me work on important shit!?nsne
+ yen1ksn i
+linn any
+lairjnank ?rww nfmeurtainnnmnrtx.,ot?in znonzur ksxv pij?raydfnahikiioe,r4ikknptinnto onx  o arkas poas.kiznn naalnabkmn pnnoo, jhapeloonoixeptnisvne oisnknaknnonnnknrooaiiaplnuilooipnyfionad?k ntnek . noihknlannuinneinnniinl4sukrtkzfkninen nnnnnnefk ilkipr.nloaakmnsntnihnnietmiaeinnpznr
+n4th!  rns wnyyiinzavpravik  nw ennwsa y,vnnirvien npen.nknuoi 4nj jazh
+
+----- diversity: 1.2
+----- Generating with seed: "! y u no let me work on important shit!?"
+apmnlnir ixiezenoso oek'w,rlfleaanvhit!?ooty vjksis
+onystoekuoonkr!oivsnkoenpy nx?snsrxwhhnkki?avnshihlpsnhhaiknnneai
+ppnek,t e?iisz
+knanxny.nwi,?w uny knnhik,4kptoix4yvk,nntllhwoiaprfg,ivnr?ndounerttohipn ai eko
+aauzly  i
+nfknknamndsluk irkhnilksp!minraxoha xrf sl
+4tcnnashnn  ikruaahhnnfnttsiiwkna.
+y,nsa
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/1
+26841/26841 [==============================] - 647s - loss: 3.3188
+
+----- diversity: 0.2
+----- Generating with seed: "ound like man
+'any girl would be lucky "
+ound like man
+'any girl would be lucky nnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnmnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+----- diversity: 0.5
+----- Generating with seed: "ound like man
+'any girl would be lucky "
+ound like man
+'any girl would be lucky nnnma unnannnnn annnnnnnnmnn nnnnn annnnnnn nnnrnnn nnrnn nmnmnnnnrnnmnnnn nnnnn n  nnnnnnnm  nnnnnnnn nnnfnm n n nnnmnnmnnnnrnuan
+nnnnmmnn nnnnnnno n nmnmn nnnnmrnn
+nnknnnn nnnnnn nnnnnnnnnknnnn nn nn nnanm nrnomnnnnns nainnnnnnnsmnnnnm nnnnnna
+nunnnnan  nanrnnknnnnmnmnnnamknnnnu n mnnmnnnnnnn  nn nmmn nnnnnnnnannnnn  mnne nnnnnnnnnkinn mnunnnn anan nnnnnnonnnnnnnnnmnnn nmnnnannn
+
+----- diversity: 1.0
+----- Generating with seed: "ound like man
+'any girl would be lucky "
+ound like man
+neknnnnhnnn.b nnaknnlnvmm,nneun!hnnimiun,on!iktenn
+amanlgnnrinn,hsaiknrnno nchnnonmmn amn rankn annnnrnfannunaninf!
+onnanrrrk?lolonn
+t,an nsnln nma emnnelu nln mnfknnuemamntsnmb ratnu vtenamnn  nn nrn tnmarnnnbk,n kk aa ntmatnma rn n innnsn
+olenmrmnnnmndaennrnnimninfnak nnrf  o nnie
+lwfnmrn,knnr nntub,blmnnadnnrnnmnnnon
+rtp
+
+----- diversity: 1.2
+----- Generating with seed: "ound like man
+'any girl would be lucky "
+ound like man
+'any girl would be lucky rs
+leigrinkbiam onemlgh
+skemnub,okn bmnhnmm!
+umenoock9k
+epnirrotonem
+ mnmonu  on mnmtnpl' nenhrn
+rmm e tfgnnannnnl iusirrnonsn ab
+p noargruiynenntnomeemmb,m
+ l uuunlntmnnnem efmn nltieibnnu
+fmnaun dyankoni tk, hnnltknino mi nkrkmkimruknnaenuunlrj krekn nkn unds nur  mkbm n eiuadtmnnnnut nulirian lnnknxmesrr r
+
+--------------------------------------------------
+Iteration 17
+Epoch 1/1
+22272/26841 [=======================>......] - ETA: 276s - loss: 3.3198
+
+----- diversity: 0.5
+----- Generating with seed: "! y u no let me work on important shit!?"
+onni oinnnienfiiyan klnninnn n  pnnynnnnnnnn pin? enrtnn ioiyn nni anyninin nnnnainayonnnnonannnnnoinletniisiininl nnnnmnnnnnonnnsinnpnininonnnnnns n innikinn iniiniieokonnnnnnninnnnseniininnne
+nnninnannnnnp nsynn in iinnjnnnn o inikvnknnaannnnzinwianoinnsitn i ininneniniw  pi,iinnnoniinneinnnnni nnnnnioi inr aoninnnnk nnnknin nnnn?nkniikken innkniiinnnonnnnnniennnnpnisninnnnx knnnilklx
+
+----- diversity: 1.0
+----- Generating with seed: "! y u no let me work on important shit!?"
+! y u no let me work on important shit!?nsne
+ yen1ksn i
+linn any
+lairjnank ?rww nfmeurtainnnmnrtx.,ot?in znonzur ksxv pij?raydfnahikiioe,r4ikknptinnto onx  o arkas poas.kiznn naalnabkmn pnnoo, jhapeloonoixeptnisvne oisnknaknnonnnknrooaiiaplnuilooipnyfionad?k ntnek . noihknlannuinneinnniinl4sukrtkzfkninen nnnnnnefk ilkipr.nloaakmnsntnihnnietmiaeinnpznr
+n4th!  rns wnyyiinzavpravik  nw ennwsa y,vnnirvien npen.nknuoi 4nj jazh
+
+----- diversity: 1.2
+----- Generating with seed: "! y u no let me work on important shit!?"
+apmnlnir ixiezenoso oek'w,rlfleaanvhit!?ooty vjksis
+onystoekuoonkr!oivsnkoenpy nx?snsrxwhhnkki?avnshihlpsnhhaiknnneai
+ppnek,t e?iisz
+knanxny.nwi,?w uny knnhik,4kptoix4yvk,nntllhwoiaprfg,ivnr?ndounerttohipn ai eko
+aauzly  i
+nfknknamndsluk irkhnilksp!minraxoha xrf sl
+4tcnnashnn  ikruaahhnnfnttsiiwkna.
+y,nsa
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/1
+26841/26841 [==============================] - 647s - loss: 3.3188
+
+----- diversity: 0.2
+----- Generating with seed: "ound like man
+'any girl would be lucky "
+ound like man
+'any girl would be lucky nnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnmnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+----- diversity: 0.5
+----- Generating with seed: "ound like man
+'any girl would be lucky "
+ound like man
+'any girl would be lucky nnnma unnannnnn annnnnnnnmnn nnnnn annnnnnn nnnrnnn nnrnn nmnmnnnnrnnmnnnn nnnnn n  nnnnnnnm  nnnnnnnn nnnfnm n n nnnmnnmnnnnrnuan
+nnnnmmnn nnnnnnno n nmnmn nnnnmrnn
+nnknnnn nnnnnn nnnnnnnnnknnnn nn nn nnanm nrnomnnnnns nainnnnnnnsmnnnnm nnnnnna
+nunnnnan  nanrnnknnnnmnmnnnamknnnnu n mnnmnnnnnnn  nn nmmn nnnnnnnnannnnn  mnne nnnnnnnnnkinn mnunnnn anan nnnnnnonnnnnnnnnmnnn nmnnnannn
+
+----- diversity: 1.0
+----- Generating with seed: "ound like man
+'any girl would be lucky "
+ound like man
+neknnnnhnnn.b nnaknnlnvmm,nneun!hnnimiun,on!iktenn
+amanlgnnrinn,hsaiknrnno nchnnonmmn amn rankn annnnrnfannunaninf!
+onnanrrrk?lolonn
+t,an nsnln nma emnnelu nln mnfknnuemamntsnmb ratnu vtenamnn  nn nrn tnmarnnnbk,n kk aa ntmatnma rn n innnsn
+olenmrmnnnmndaennrnnimninfnak nnrf  o nnie
+lwfnmrn,knnr nntub,blmnnadnnrnnmnnnon
+rtp
+
+----- diversity: 1.2
+----- Generating with seed: "ound like man
+'any girl would be lucky "
+ound like man
+'any girl would be lucky rs
+leigrinkbiam onemlgh
+skemnub,okn bmnhnmm!
+umenoock9k
+epnirrotonem
+ mnmonu  on mnmtnpl' nenhrn
+rmm e tfgnnannnnl iusirrnonsn ab
+p noargruiynenntnomeemmb,m
+ l uuunlntmnnnem efmn nltieibnnu
+fmnaun dyankoni tk, hnnltknino mi nkrkmkimruknnaenuunlrj krekn nkn unds nur  mkbm n eiuadtmnnnnut nulirian lnnknxmesrr r
+
+--------------------------------------------------
+Iteration 17
+22656/26841 [========================>.....] - ETA: 253s - loss: 3.3202
