@@ -20,7 +20,7 @@ import numpy as np
 import random
 import sys
 
-path = get_file('input_small3.txt', origin="https://raw.githubusercontent.com/davyx8/memernn/master/input_small3.txt")
+path = get_file('input4.txt', origin="https://raw.githubusercontent.com/davyx8/memernn/master/input4.txt")
 text = open(path).read().lower()
 print('corpus length:', len(text))
 f = open('out.txt','w')
